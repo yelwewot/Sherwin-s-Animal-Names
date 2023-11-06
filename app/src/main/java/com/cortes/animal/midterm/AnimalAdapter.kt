@@ -25,7 +25,7 @@ class AnimalAdapter(
         }
 
         fun bind(item: AnimalDataModel) {
-            binding.animalNameTV.text = item.name
+            binding.animalName.text = item.name
         }
     }
 

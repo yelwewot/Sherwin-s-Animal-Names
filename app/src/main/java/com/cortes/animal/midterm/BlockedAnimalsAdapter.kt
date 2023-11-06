@@ -12,13 +12,13 @@ class BlockedAnimalsAdapter(private val blockedAnimals: List<String>) :
         RecyclerView.ViewHolder(binding.root) {
 
         init {
-            binding.unblockB.setOnClickListener {
+            binding.unblock.setOnClickListener {
                 onUnblockClick(blockedAnimals[adapterPosition])
             }
         }
 
         fun bind(animalName: String) {
-            binding.animalNameTV.text = animalName
+            binding.animalName.text = animalName
         }
     }
 

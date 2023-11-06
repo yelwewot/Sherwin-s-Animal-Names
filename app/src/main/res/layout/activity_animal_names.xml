@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:text="@string/animal_names_from_a_to_z"
         android:textColor="@color/purple_500"
-        android:textSize="26sp"
+        android:textSize="30sp"
         android:textStyle="bold" />
 
     <androidx.recyclerview.widget.RecyclerView

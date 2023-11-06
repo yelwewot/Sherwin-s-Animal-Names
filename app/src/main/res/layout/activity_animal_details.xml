@@ -11,7 +11,7 @@
         android:id="@+id/detailAnimalTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="@color/purple_200"
+        android:textColor="@color/purple_500"
         android:textSize="26sp"
         android:textStyle="bold" />
 
