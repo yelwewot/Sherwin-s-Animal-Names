@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sherwin\'s Animal Names</string>
+    <string name="manage_block">Manage Block Animals</string>
+    <string name="block_animal">Block Animal</string>
+    <string name="unblock_animal">Unblock</string>
+    <string name="animal_names_from_a_to_z">Animal names from A to Z</string>
+</resources>
